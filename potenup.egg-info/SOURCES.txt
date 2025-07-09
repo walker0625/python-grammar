@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+potenup.egg-info/PKG-INFO
+potenup.egg-info/SOURCES.txt
+potenup.egg-info/dependency_links.txt
+potenup.egg-info/requires.txt
+potenup.egg-info/top_level.txt
